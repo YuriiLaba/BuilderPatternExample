@@ -2,6 +2,10 @@
  * Created by jlaba on 25.12.2016.
  */
 public abstract class PizzaBuilder {
+    /**
+     * Abstract class for making pizza
+     */
+
     protected Pizza pizza;
 
     public Pizza getPizza() {

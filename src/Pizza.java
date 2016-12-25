@@ -2,6 +2,9 @@
  * Created by jlaba on 25.12.2016.
  */
 public class Pizza {
+    /**
+     * Empty pizza
+     */
     private String cheese = null;
     private String oil = null;
     private String meat = null;

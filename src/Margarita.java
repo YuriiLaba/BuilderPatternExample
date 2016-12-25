@@ -2,6 +2,10 @@
  * Created by jlaba on 25.12.2016.
  */
 public class Margarita extends PizzaBuilder {
+    /**
+     * Implementation of pizza
+     * Certain Builder
+     */
 
     @Override
     public void buildCheese() {
